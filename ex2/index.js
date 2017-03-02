@@ -1,0 +1,1 @@
+const duvida =  require('./duvidaCruel');
